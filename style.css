@@ -1,0 +1,85 @@
+a {
+    text-decoration: none;
+    margin-left: 100px;
+    color: #7D7D7D;
+}
+
+.el1 {
+    margin-left: 500px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19px;
+    color: #03A9F4;
+}
+
+.r1 {
+    display: flex;
+    justify-content: center;
+}
+
+.r2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+}
+.r3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 130px;
+}
+.img {
+    width: 420px;
+    height: 280px;
+    margin-top: 182px;
+}
+
+header {
+    margin-top: 71px;
+}
+
+main {
+    margin-top: 82px;
+}
+
+.card1 {
+    margin-left: 58px;
+}
+
+.text {
+    font-size: 14px;
+    font-family: Ubuntu;
+    font-weight: 300;
+    line-height: 17px;
+    color: #B4AD9E;
+}
+
+.text2 {
+    font-size: 30px;
+    font-family: Playfair Display;
+    color: #626262;
+}
+
+.text3 {
+    font-size: 14px;
+    font-family: Playfair Display;
+    color: #626262;
+}
+
+.card2 {
+    margin-left: 65px;
+}
+button{
+    background-color: #fff;
+    justify-content: center;
+    margin-top: 90px;
+    width: 165px;
+    height: 60px;
+    margin-left: 625px;
+    margin-bottom: 66px;
+}
+.text4{
+    size: 14px;
+    color: #626262;
+    font-family: Playfair Display;
+}
